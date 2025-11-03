@@ -6,7 +6,6 @@ The largest_difference() function calculates the difference between the largest 
 It does this by sorting the list, finding the smallest and largest values, and then returning the numerical difference between them.
 
 <h2>How it works</h2>
-How It Works
 <ul>
 <li>The input list (param) is sorted in ascending order using .sort().</li>
 <li>The length of the list is stored in size.</li>
